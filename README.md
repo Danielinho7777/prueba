@@ -10,4 +10,5 @@ Este es un curso introductorio al procesamiento de datos geográficos
 2. Aprender el lenguaje de marcado [Markdown](https://markdown.es/)
 3. Aprender el sistema de control [Git](https://git-scm.com/)
 
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/270px-Hubble_ultra_deep_field.jpg)

@@ -12,3 +12,5 @@ Este es un curso introductorio al procesamiento de datos geográficos
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/270px-Hubble_ultra_deep_field.jpg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hubble_ultra_deep_field.jpg/270px-Hubble_ultra_deep_field.jpg" width= "300"
